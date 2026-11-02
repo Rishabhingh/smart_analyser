@@ -18,7 +18,7 @@ pip install matplotlib
 python Smart_Analyser.py
 
 # Build Exe
-python -m PyInstaller --onefile --windowed --name "Smart Analyser" Smart_Analyser.py
+python -m PyInstaller --onefile --windowed --name " smart_analyser"  smart_analyser.py
 
 # Author
 DRx. Rishabh Singh - Pharmacist, Thane
