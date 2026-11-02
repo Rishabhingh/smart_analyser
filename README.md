@@ -1,6 +1,6 @@
-# SMART_ANALYSER
+# smart_analyser
 A smart desktop app analyses medical/pharma data, automate reports &amp; boost productivity. Built with Python.
-# SMART ANALYSER
+# smart_analyser
 
 An intelligent offline desktop tool for pharmacists to build corporate reports with live chart preview and export.
 
