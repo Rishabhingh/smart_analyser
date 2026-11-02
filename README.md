@@ -19,6 +19,7 @@ OpenPyXL
 🚀 How to Run
 pip install -r requirements.txt
 python smart_analyser.py
+
 📂 Sample Data
 Use sample_data.xlsx for testing, or select your own CSV/Excel file via Browse button.
 
@@ -33,3 +34,4 @@ Thane, Maharashtra, India
 📄 License
 MIT License - Feel free to use and modify.
 
+⭐ Star this repo if you find it useful!
