@@ -1,0 +1,5 @@
+# Add your libraries here
+# Example:
+# customtkinter
+# pandas
+# openpyxl
